@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Car:
     def __init__(self, comfort_class: float, clean_mark: float, brand: str) -> None:
         self.comfort_class = comfort_class
